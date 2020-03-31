@@ -5,7 +5,7 @@
 <html>
 <head>
   <title>GSB</title>
-  <link rel="stylesheet" type="text/css" href="style/style.css" title="style" />
+  <link rel="stylesheet" type="text/css" href="../../style/style.css" title="style" />
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <script language="JavaScript">
     function ChangeUrl(formulaire)
@@ -29,7 +29,7 @@
         </div>
         <div id="menubar">
           <ul id="menu">
-            <li class="selected"><a href="index.html">Accueil </a></li>
+            <li class="selected"><a href="../../index.html">Accueil </a></li>
             <li><a href="formulaire.html">Formulaire</a></li>
             <li><a href="test.php">Afficher</a></li>
           </ul>

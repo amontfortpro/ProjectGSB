@@ -1,5 +1,5 @@
 <?php
-require_once 'AccesDonnees.php';
+require_once '../AccesDonnees.php';
 
 $ip=explode(".", adresseIPV4($_SERVER['SERVER_ADDR']));
 switch ($ip[0]) {
